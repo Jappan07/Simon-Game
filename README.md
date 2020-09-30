@@ -1,5 +1,7 @@
 # A fun little Simon Says Game that we all played in childhood😜
-<iframe src="https://giphy.com/embed/WzIQCBiQi7wnJDpVqC" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/WzIQCBiQi7wnJDpVqC">via GIPHY</a></p>
+
+![](./assets/simon.gif)
+
 
 ### Rules for playing the game 🎮
 <pre>
